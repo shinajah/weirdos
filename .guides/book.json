@@ -1,0 +1,17 @@
+{
+ "name": "normal not perfect",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "9601eb39-2870-9278-2fa0-fd8f913b50c2",
+   "pageId": "9601eb39-2870-9278-2fa0-fd8f913b50c2",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "f1bb35bc-e4e1-8364-eb41-cf2bc2376995",
+   "pageId": "f1bb35bc-e4e1-8364-eb41-cf2bc2376995",
+   "type": "page"
+  }
+ ]
+}

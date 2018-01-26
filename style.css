@@ -1,0 +1,12 @@
+h1{color:pink}
+body{background-color:yellow;background-image:url("https://www.cicis.com/media/1137/pizza_trad_alfredo.png")}  
+h2{text-align:center}
+div{
+       border-style:
+                  solid; 
+       background-color:purple;
+    border-style:dotted
+    padding:200px;
+        margin:300px;
+  
+}
